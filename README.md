@@ -1,6 +1,6 @@
 # CatCatchCircle
 
-This application works when you tap the screen a circle appears and when you tap it again it appears in a random place on the screen.
+This app works when you tap on the screen a circle of random size appears and when you tap it again it appears randomly sized in a random place on your phone screen.
 
 <img width="444" alt="Screenshot 2023-05-29 at 09 19 36" src="https://github.com/KossIOS/CatCatchCircle/assets/102085029/96a85ca8-6f93-4a74-aa78-9ab24bbd3f45">
 
